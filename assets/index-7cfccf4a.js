@@ -1,0 +1,1 @@
+import{d as t,g as s,l as e,q as u}from"./index-17000ae8.js";const a=t({name:"JsxComp",setup(){return()=>s("div",{className:"test"},[e("这是一个用"),s("span",null,[e("JSX")]),e("编写的SFC组件。")])}});const _=u(a,[["__scopeId","data-v-5b3921e6"]]);export{_ as default};

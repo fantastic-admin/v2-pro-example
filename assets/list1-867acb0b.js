@@ -1,0 +1,1 @@
+import{q as c,e as r,o as s,L as _,w as e,g as l,l as i,x as o,R as p}from"./index-17000ae8.js";const t={};function u(f,m){const n=r("router-link"),a=p;return s(),_(a,null,{default:e(()=>[l(n,{to:{name:"breadcrumbExampleDetail1"}},{default:e(()=>[i(" 查看详情页 ")]),_:1})]),_:1})}typeof o=="function"&&o(t);const x=c(t,[["render",u]]);export{x as default};

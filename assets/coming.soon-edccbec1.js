@@ -1,0 +1,1 @@
+import{q as c,o as t,f as _,g as s,x as e,S as a}from"./index-17000ae8.js";const o={};function r(f,i){const n=a;return t(),_("div",null,[s(n,{title:"即将推出 Vue3 版本视频教程，尽请期待"})])}typeof e=="function"&&e(o);const p=c(o,[["render",r]]);export{p as default};

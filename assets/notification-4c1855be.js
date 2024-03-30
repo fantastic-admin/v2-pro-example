@@ -1,0 +1,1 @@
+import{c0 as c,r as e,G as r}from"./index-17000ae8.js";const u=c("notification",()=>{const t=e(0),o=e(0),n=r(()=>t.value+o.value);function a(){i(),s()}function i(){t.value=9}function s(){o.value=0}return{message:t,todo:o,total:n,init:a}}),d=u;export{d as u};

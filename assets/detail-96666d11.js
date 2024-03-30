@@ -1,0 +1,1 @@
+import{d as _,a as r,e as u,o as c,L as l,w as o,g as p,i,l as f,R as m,x as t}from"./index-17000ae8.js";const d=_({__name:"detail",setup(x){const n=r();return(g,e)=>{const a=u("el-button"),s=m;return c(),l(s,null,{default:o(()=>[p(a,{onClick:e[0]||(e[0]=k=>i(n).go(-1))},{default:o(()=>[f(" 返回 ")]),_:1})]),_:1})}}});typeof t=="function"&&t(d);export{d as default};

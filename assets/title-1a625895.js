@@ -1,0 +1,1 @@
+import{d as c,y as _,e as l,o as i,L as p,w as e,g as r,l as u,R as f,x as t}from"./index-17000ae8.js";const m=c({__name:"title",setup(d){const o=_();function n(){o.setTitle("测试标题")}return(g,x)=>{const s=l("el-button"),a=f;return i(),p(a,null,{default:e(()=>[r(s,{onClick:n},{default:e(()=>[u(" 将标题修改为「 测试标题 」 ")]),_:1})]),_:1})}}});typeof t=="function"&&t(m);export{m as default};
